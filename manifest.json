@@ -1,0 +1,11 @@
+{
+  "name": "Strike Ledger — Options Portfolio Dashboard",
+  "short_name": "Strike Ledger",
+  "start_url": "./strike-ledger-dashboard-for-github_4.html",
+  "display": "standalone",
+  "background_color": "#080B10",
+  "theme_color": "#080B10",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" }
+  ]
+}
